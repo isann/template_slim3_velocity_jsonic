@@ -1,6 +1,6 @@
 package info.isann.slim3.sample.meta.sample;
 
-//@javax.annotation.Generated(value = { "slim3-gen", "@VERSION@" }, date = "2011-10-16 01:26:04")
+//@javax.annotation.Generated(value = { "slim3-gen", "@VERSION@" }, date = "2011-10-16 02:17:07")
 /** */
 public final class MessageMeta extends org.slim3.datastore.ModelMeta<info.isann.slim3.sample.model.sample.Message> {
 
