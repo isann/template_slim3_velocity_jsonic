@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset=utf-8 />
+<title>Test</title>
+<script src="./common/js/jquery.js"></script>
+<script type="text/javascript">
+</script>
+</head>
+<body>
+error
+<br>
+#if($message)
+	$message
+#end
+</body>
+</html>
